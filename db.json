@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Compture",
+      "price": 120000,
+      "quantity": 500,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 27000,
+      "quantity": 200,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 158000,
+      "quantity": 700,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "Tablett",
+      "price": 16700,
+      "quantity": 300,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 5,
+      "name": "slash",
+      "price": "111111111",
+      "quantity": "7788",
+      "selected": false,
+      "available": true
+    }
+  ]
+}
