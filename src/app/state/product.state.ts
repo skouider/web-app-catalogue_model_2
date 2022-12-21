@@ -1,3 +1,23 @@
+
+export enum ProductActionsType{
+GET_ALL_PRODUCTS = "[Product] Get All Product",
+GET_SELECTED_PRODUCTS = "[Product] Get Selected Product",
+GET_AVAILABE_PRODUCTS = "[Product] Get Available Product",
+SEARCH_PRODUCTS = "[Product] Search Product",
+NEW_PRODUCT = "[Product] Add New Product",
+SELECT_PRODUCT = "[Product] Select Product",
+DELETE_PRODUCT = "[Product] Delete Product",
+EDIT_PRODUCT = "[Product] Edit Product",
+
+
+}
+
+export interface ActionEvent{
+    type:ProductActionsType,
+    payload?: any
+
+}
+
 export enum DataStateEnum{
     LOADED,LOADING,ERROR
 }

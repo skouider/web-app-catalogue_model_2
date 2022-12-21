@@ -31,14 +31,6 @@
       "quantity": 300,
       "selected": true,
       "available": false
-    },
-    {
-      "id": 5,
-      "name": "slash",
-      "price": "111111111",
-      "quantity": "7788",
-      "selected": false,
-      "available": true
     }
   ]
 }
