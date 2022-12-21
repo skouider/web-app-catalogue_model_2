@@ -13,6 +13,7 @@ import { EditProductComponent } from './components/edit-product/edit-product.com
 import { ProductsNavBarComponent } from './components/products/products-nav-bar/products-nav-bar.component';
 import { ProductsListComponent } from './components/products/products-list/products-list.component';
 import { ProductItemComponent } from './components/products/products-list/product-item/product-item.component';
+import { StatistiqueComponent } from './components/statistique/statistique.component';
 
 
 @NgModule({
@@ -26,7 +27,8 @@ import { ProductItemComponent } from './components/products/products-list/produc
     ProductsNavBarComponent,
     ProductsListComponent,
     
-    ProductItemComponent
+    ProductItemComponent,
+         StatistiqueComponent
   ],
   imports: [
     BrowserModule,

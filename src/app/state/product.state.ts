@@ -8,8 +8,8 @@ NEW_PRODUCT = "[Product] Add New Product",
 SELECT_PRODUCT = "[Product] Select Product",
 DELETE_PRODUCT = "[Product] Delete Product",
 EDIT_PRODUCT = "[Product] Edit Product",
-
-
+PRODUCT_SAVED = "[Product] Product Saved",
+PRODUCT_UPDATED = "[Product] Product Updated"
 }
 
 export interface ActionEvent{

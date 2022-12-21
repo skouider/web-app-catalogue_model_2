@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Compture",
-      "price": 120000,
+      "price": "150000",
       "quantity": 500,
       "selected": false,
       "available": true
@@ -13,7 +13,7 @@
       "name": "Printer",
       "price": 27000,
       "quantity": 200,
-      "selected": true,
+      "selected": false,
       "available": true
     },
     {
@@ -21,16 +21,16 @@
       "name": "Smartphone",
       "price": 158000,
       "quantity": 700,
-      "selected": true,
+      "selected": false,
       "available": false
     },
     {
-      "id": 4,
       "name": "Tablett",
-      "price": 16700,
-      "quantity": 300,
-      "selected": true,
-      "available": false
+      "price": "54000",
+      "quantity": "90",
+      "selected": false,
+      "available": true,
+      "id": 4
     }
   ]
 }
